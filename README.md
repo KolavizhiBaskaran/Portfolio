@@ -1,14 +1,16 @@
 
 # My Portfolio
 
-A brief description of what this project does and who it's for
+This is a straightforward website for my online showcase that uses HTML, CSS, and JavaScript.
+
 
 
 ## Used By
 
-This project is used by the following companies:
+This project is using
 
-- Company 1
-- Company 2
+- html
+- css
+-javascrpit
 
 
